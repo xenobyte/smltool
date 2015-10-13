@@ -10,7 +10,7 @@ git clone https://github.com/xenobyte/smltool.git
 cd smltool
 ```
 
-Adjust IP_ADDRESS and PORT in the smltool.py
+Adjust *IP_ADDRESS* and *PORT* in smltool.py
 
 ## Run
 ```
