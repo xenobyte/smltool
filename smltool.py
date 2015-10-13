@@ -14,10 +14,8 @@ def parse_sml(data):
     arr1_8_0 = re.search(reg1_8_0, data)
 
     s = arr15_7_0.group(0)
-    print(s)
     int15_7_0 = int(s[1], 16)
     s = arr1_8_0.group(0)
-    print(s)
     int1_8_0 = int(s[1], 16) / 1000
 
     print(("Wirkleistung momentan: " + str(int15_7_0) + " Watt"))
