@@ -1,10 +1,10 @@
 # smltool
 Quick 'n dirty hack to parse a smart-message-language data.
 
-# Dependencies
+## Dependencies
 You will need Python3 to run this script
 
-# Setup
+## Setup
 ```
 git clone https://github.com/xenobyte/smltool.git
 cd smltool
@@ -12,7 +12,7 @@ cd smltool
 
 Adjust IP_ADDRESS and PORT in the smltool.py
 
-# Run
+## Run
 ```
 chmod +x smltool.py
 python smltool.py
